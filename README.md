@@ -32,7 +32,7 @@ This project provides a **whitelist smart contract** that verifies user addresse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/merkle-whitelist.git
+   git clone https://github.com/Dennis-DW/Merkle-Based-Whitelist-Smart-Contract.git
    ```
 2. Change to the project directory:
    ```bash
@@ -74,7 +74,7 @@ The test suite includes scenarios where valid and invalid addresses attempt to v
 
 Here’s the result from running the test suite:
 
-![Test Results](./path-to-image.png)
+![Test Results](./src/test.png)
 
 > All tests passed successfully, indicating the whitelist logic works as expected.
 
